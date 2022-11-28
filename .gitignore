@@ -396,3 +396,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# venv folder
+Task_1\.venv_9.1
+Task_2.1\.venv_9.2.1
+Task_2.2\.venv_9.2.2
